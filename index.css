@@ -57,9 +57,11 @@ table {
 	width: 800px;
 	height: 100px;
 	display: flex;
-	justify-content: center;
-
+	justify-content: space-around;
+	/* align-items: 
+	   flex-direction:   */
 }
+
 
 .video-box {
 	border: 2px dashed black;

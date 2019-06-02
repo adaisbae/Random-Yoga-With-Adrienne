@@ -71,8 +71,11 @@ table {
 
 .button {
 	border: 1px solid hotpink;
-	/*width: 80px;*/
+	width: 500px;
 	height: 35px;
+	margin: auto;
 	display: flex;
-	flex-direction: row;
+	justify-content: space-evenly;
 }
+
+
